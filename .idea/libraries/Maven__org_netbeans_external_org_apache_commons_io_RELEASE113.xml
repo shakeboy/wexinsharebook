@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.netbeans.external:org-apache-commons-io:RELEASE113">
+    <CLASSES>
+      <root url="jar://D:/tools/IDEA/maven/localRepository/org/netbeans/external/org-apache-commons-io/RELEASE113/org-apache-commons-io-RELEASE113.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/tools/IDEA/maven/localRepository/org/netbeans/external/org-apache-commons-io/RELEASE113/org-apache-commons-io-RELEASE113-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/tools/IDEA/maven/localRepository/org/netbeans/external/org-apache-commons-io/RELEASE113/org-apache-commons-io-RELEASE113-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
